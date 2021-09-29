@@ -1,0 +1,1 @@
+int pos=(-1)*static_cast<int>(sizeof(stud));

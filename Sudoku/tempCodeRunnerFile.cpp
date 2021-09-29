@@ -1,0 +1,1 @@
+grid[row][col] = empty;
